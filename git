@@ -1,0 +1,18 @@
+[33mcommit 7610711fa15aff8f2aa68ff61179db7e4a356845[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Nadav Har-Tuv <nadavgoo@gmail.com>
+Date:   Tue Jul 19 10:45:16 2022 +0300
+
+    bootstrap project
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/index.js b/index.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/main.css b/main.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/test/test.js b/test/test.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
